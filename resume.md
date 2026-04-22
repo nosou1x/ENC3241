@@ -3,5 +3,6 @@ layout: default
 title: Resume
 ---
 
-<iframe src="docs/resume.pdf" width="100%" height="1000px" style="border:none;"></iframe>
+<object data="docs/resume.pdf" type="application/pdf" width="100%" height="900px">
+</object>
 
