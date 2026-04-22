@@ -5,4 +5,5 @@ title: Instructions
 
 # Instructions
 
-<iframe src="docs/Instructions.pdf" width="100%" height="1000px" style="border:none;"></iframe>
+<object data="docs/Instructions.pdf" type="application/pdf" width="100%" height="900px">
+</object>
