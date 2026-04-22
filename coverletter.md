@@ -5,4 +5,5 @@ title: Cover Letter
 
 # Cover Letter
 
-<iframe src="docs/CoverLetter.pdf" width="100%" height="1000px" style="border:none;"></iframe>
+<object data="docs/CoverLetter.pdf" type="application/pdf" width="100%" height="900px">
+</object>
